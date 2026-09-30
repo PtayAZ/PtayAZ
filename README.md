@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hồ Phương Tây
 
-<!--
-**PtayAZ/PtayAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student specializing in AI at the University of Information Technology, VNU-HCM.
 
-Here are some ideas to get you started:
+Interested in **computer vision**, **applied machine learning**, and turning models into useful applications. Open to **AI/ML internship opportunities**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+- **Python & FastAPI:** building backend services and APIs.
+- **AI integration:** connected online services to a vector database and integrated LLM API calls in a university team project.
+- Coursework in machine learning, deep learning, computer vision, and natural language processing.
+
+## Focus
+
+- Computer vision experiments with reproducible evaluation.
+- Data preparation, baseline comparisons, and error analysis.
+- Small AI applications with clear documentation and working demos.
+
+Outside AI, I enjoy experimenting with Unity and small game ideas.
+
+<!-- Add selected projects once they have a working demo and reproducible results.
+For each project, include its purpose, personal contribution, repository link,
+and a measured result with its evaluation conditions. -->
